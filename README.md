@@ -37,3 +37,8 @@ This project will useful for my junior in college. Other than that, maybe this p
         1) Send email the result of vote to all candidates
         2) Send email if a candidate got less vote than others
         3) Send email if a candidate got voted five times
+
+# Idea and Source
+1) Idea by: Timothy Rudolf Tan
+2) Source:
+   1) Button: https://youtu.be/al_V4OGSvFU?si=e6qH_o-_xRt7QFk0
