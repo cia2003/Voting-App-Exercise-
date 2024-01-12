@@ -30,8 +30,7 @@ This project will useful for my junior in college. Other than that, maybe this p
       b) Service layer: voting logic -> what action will happen If I increase one vote (I use observer pattern).
       c) Persistence layer: handle the database
 3) About observer pattern:
-   1) I use this pattern to distinguish between the topic (subject) and the actions
-      For example:
+   1) I use this pattern to distinguish between the topic (subject) and the actions. For example:
       - Topic: increase Candidate A's vote
       - Action:
         1) Send email the result of vote to all candidates
